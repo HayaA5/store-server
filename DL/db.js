@@ -3,7 +3,8 @@
 
 const mongoose = require('mongoose');
 
-const MONGO_URL = 'mongodb+srv://Admin:Admin123@cluster0.zyg0zzq.mongodb.net/test1?retryWrites=true&w=majority'
+const MONGO_URL ='mongodb+srv://Haya:hayA1989@cluster0.cc8ykh2.mongodb.net/test1?retryWrites=true&w=majority'
+// 'mongodb+srv://Admin:Admin123@cluster0.zyg0zzq.mongodb.net/test1?retryWrites=true&w=majority'
 
 const connect = async () => {
     try {
